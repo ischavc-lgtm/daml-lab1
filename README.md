@@ -7,3 +7,4 @@ conda activate daml-test
 pip install -r requirements.txt
 jupyter notebook
 ```
+测试 it is fine if you don't understand what that is
